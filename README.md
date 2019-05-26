@@ -1,3 +1,3 @@
 # You Gonna Learn Today
 
-Simple examples of the basics
+Simple examples of the basics for each language
