@@ -18,5 +18,6 @@ This repository contains only *.py* files and thats it. Each file will teach you
 |[PyCharm](https://www.jetbrains.com/pycharm/)|IDE|
 |[Visual Studio Code](https://code.visualstudio.com/)|IDE|
 
-3. Something to run the code with; IDEs usually come with some functionality built in that will allow you to code if not you can use the good ol' terminal/command prompt.
+3. Something to run the code with; IDEs usually come with some functionality built in that will allow you to run code; if not you can use the good ol' terminal/command prompt.
+
 4. ### *Imagination !*
