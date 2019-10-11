@@ -1,4 +1,4 @@
-# This is a single line comment, A comment is not included as part of the code when  the code is ran 
+# This is a single line comment, A comment is not included as part of the code when  the code is ran
 # It is used to indicate what part of a code does
 
 """
@@ -16,3 +16,5 @@ print('"Hello, World !"') # This will print; "Hello, World !" Notice that the do
 print("'Hello, World !'") # This will print; 'Hello, World !' Notice that this time it is the single quotes are inlcuded
 
 #In python double quotes and single quotes are virutually the same and indicate that whats inside is stored as a string
+
+print ('Hello, World ! ' * 5) #Anything outside the parentheses will be also be printed as such, This can be used to print variable values or in this case print 'Hello World ! ' 5 times
