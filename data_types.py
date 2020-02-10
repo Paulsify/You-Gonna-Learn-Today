@@ -25,4 +25,4 @@ floating_point = 6.9 # A floating point number contains a decimal point, as with
 string = "This is a string" # When assigning a string double quotes are used to let python know that the sequence of characters in the quotes are the ones to be assigned
 boolean = True #A boolean variable is either True or False; In python it is required for either of them to be capitilized because python is case sensitive
 
-print("These are my data types: " , integer, floating_point, string, boolean) #When printing more than one variable be sure to seperate each with a comma
+print("These are my data types: " , integer, ",", floating_point, ",", string, ",", boolean) #When printing more than one variable be sure to seperate each with a comma
