@@ -1,3 +1,3 @@
 # You Gonna Learn Today
 
-Push to test_branch before pushing to master
+New files will be pushed here first NOTE: They may not be complete yet
