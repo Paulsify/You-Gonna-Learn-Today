@@ -1,3 +1,3 @@
-# You Gonna Learn Today
+# You Gonna Learn Today/test_branch
 
-New files will be pushed here first NOTE: They may not be complete yet
+This branch is exactly what is sounds like. New files/or files still a WIP will be pushed here first NOTE: They may not be complete yet
