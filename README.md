@@ -7,6 +7,7 @@ This repository contains only *.py* files and thats it. Each file will teach you
 ***
 *Please visit the [Wiki](https://github.com/Paulsify/You-Gonna-Learn-Today/wiki) for more information.*
 
+*Also checkout [The Road Map](https://github.com/Paulsify/You-Gonna-Learn-Today/projects/2) to see whats going to be added !*
 ## What Do I Need ?
 1. [Python 3](https://www.python.org/downloads/) : Use the latest version as long as it starts with 3: Follow instructions on the Python website to install.
 
