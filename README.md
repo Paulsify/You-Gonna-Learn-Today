@@ -3,6 +3,10 @@ Welcome to my repository ! This repository is for learning python, and is aimed 
 
 ## Introduction
 This repository contains only *.py* files and thats it. Each file will teach you something new about python. Each file is also commented so that it will be easier to understand what the file does. Feel free to modify it and go crazy, do what you wish with each and every one, after youve gone through them I encourage you to do your own thing and create new code.
+
+***
+*Please visit the [Wiki](https://github.com/Paulsify/You-Gonna-Learn-Today/wiki) for more information.
+
 ## What Do I Need ?
 1. [Python 3](https://www.python.org/downloads/) : Use the latest version as long as it starts with 3: Follow instructions on the Python website to install.
 
