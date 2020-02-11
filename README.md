@@ -1,18 +1,8 @@
-# You Gonna Learn Today/test_branch
+# You Gonna Learn Today
 
-<<<<<<< HEAD
-*This branch is for testing files*
-||||||| 51e5fa2... Update to README
 ## Introduction
 This repository contains only *.py* files and thats it. Each file will teach you something new about python. Each file is also commented so that it will be easier to understand what the file does. Feel free to modify it and go crazy, do what you wish with each and every one, after youve gone through them I encourage you to do your own thing and create new code.
-=======
-This branch is exactly what is sounds like. New files/or files still a WIP will be pushed here first 
->>>>>>> parent of 51e5fa2... Update to README
 
-<<<<<<< HEAD
-NOTE: Files in this branch are probalby a WIP so they may not be finished.
-||||||| 51e5fa2... Update to README
-***
 *Please visit the [Wiki](https://github.com/Paulsify/You-Gonna-Learn-Today/wiki) for more information.*
 
 *Also checkout [The Road Map](https://github.com/Paulsify/You-Gonna-Learn-Today/projects/2) to see whats going to be added !*
