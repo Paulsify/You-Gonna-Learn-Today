@@ -51,12 +51,10 @@ print(another_list[1])
 print(another_list[2])
 
 print('\n--------guess_what_another_list--------\n')
-print(guess_what_another_list[0])
-print(guess_what_another_list[1])
-print(guess_what_another_list[2])
+print(guess_what_another_list[0:]) # This will print everything; It prints everything from the 0th position to the end. (NOTE: It will all be on the same line and include brackets).
 
 print('\n--------yet_another_list--------\n')
-print(*yet_another_list) # This will print everything in yet_another_list (NOTE: It will all be on the same line).
+print(*yet_another_list) # This will also print everything. * means a wildcard or everything in programming.  
 
 print('\n--------list_number_five--------\n')
 print(*list_number_five, sep = '\n') # Adding the 'sep = \n' mean to seperate the elements of the list by a new line.
