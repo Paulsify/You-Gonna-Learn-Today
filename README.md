@@ -24,7 +24,5 @@ This repository contains only *.py* files and thats it. Each file will teach you
 3. Something to run the code with; IDEs usually come with some functionality built in that will allow you to run code; if not you can use the good ol' terminal/command prompt.
 
 4. ### *Imagination !*
-=======
-***
-NOTE: Files  may not be complete yet
->>>>>>> parent of 51e5fa2... Update to README
+
+
