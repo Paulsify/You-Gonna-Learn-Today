@@ -12,17 +12,31 @@ There are a few data types that can be stored in a variable
        also called int or ints
     2. Floating point - Floating point numbers are numbers that have a decimal
        point. They are also called float numbers or floats
-    3. Strings - Strings are a sequence of characters. It is often used to print
-       text to the screen like was done in Hello_World.py. These are simple
+    3. Strings - Strings are a sequence or string of characters. It is often used to print
+       text to the screen like was done in Hello_World.py. These are simply
        called strings
-    4. Boolean - Variables that are boolean can either be 'True' or 'False'
+    4. Boolean - Variables that are boolean can either be 'True' or 'False'. Often shortened to bool or bools Less common than the other three types.
 """
 
+#----------------------------------------------------------------------------------------------------
 # A small example of assigning different varable types.
 
-integer = 7 #An integer value has no decimal points, it can be as big as you want as long as there are no decimal points
-floating_point = 6.9 # A floating point number contains a decimal point, as with integers any number of numbers can be added after the decimal points
-string = "This is a string" # When assigning a string double quotes are used to let python know that the sequence of characters in the quotes are the ones to be assigned
-boolean = True #A boolean variable is either True or False; In python it is required for either of them to be capitilized because python is case sensitive
+integer = 7 # Integers can be as big as you want as long as there are no decimal points
+floating_point = 6.9 # As with integers any number of numbers can be added after the decimal points
+string = 'Spam is delicious' # When assigning a string quotes are used. Either single quotes or double. With double it is easier to add apostrophes.
+boolean = True #In python it is required for either True or False to be capitilized because python is case sensitive
+a, b, c, d = 1, 2.3, 'Bacon is also good', False  # It is possible to assign multiple variables at a time NOTE: Try to name the variable to explain what it is
 
-print("These are my data type: " , integer, ",", floating_point, ",", string, ",", boolean) #When printing more than one variable be sure to seperate each with a comma
+print('This is a integer: ', integer) #When printing more than one thing, be sure to seperate each with a comma
+print('This is a float: ', floating_point)
+print('This is a string: ', string)
+print('This is a Boolean: ', boolean)
+print('All the variables: ', a, ' ', b, ' ', c, ' ', d) # Adding spaces can make the output more readable.
+
+'''
+Try changing the values and see the output ! NOTE: Boolean can only be True or False
+
+Python is usually read by the computer line by line, top to bottom. If you want to change a variable after assigning it earlier in the program
+then make sure it is the same type. There are ways to convert between the data types but thats for another file
+
+'''
