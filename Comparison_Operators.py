@@ -18,6 +18,11 @@ num4 = 2.0
 string1 = 'dog'
 string2 = 'cat'
 string3 = 'dog'
+Bool1 = True
+Bool2 = False
+Bool3 = True
+
+# NOTE: You can not do the same with booleans because in python True and False
 #-------------------------------------------------------------------------------------------------------------------
 print('\nOperation Python is a go !\n')
 #-------------------------------------------------------------------------------------------------------------------
@@ -42,3 +47,10 @@ print('\n-----string1 == string3------\n')
 print('\t   ',string1 == string3)
 print('\n-----string1 != string2------\n')
 print('\t   ',string1 != string2)
+#-------------------------------------------------------------------------------------------------------------------
+print('\n-------bool1 == bool2--------\n') # NOTE:  Even booleans too ! It is the same as with strings, <,>,<=,>= do not apply.
+print('\t   ',Bool1 == Bool2)
+print('\n-------bool1 == bool3--------\n')
+print('\t   ',Bool1 == Bool3)
+print('\n-------bool1 != bool2--------\n')
+print('\t   ',Bool1 != Bool2)
