@@ -21,6 +21,8 @@ string3 = 'dog'
 #-------------------------------------------------------------------------------------------------------------------
 print('\nOperation Python is a go !\n')
 #-------------------------------------------------------------------------------------------------------------------
+# NOTE: Try and guess what each one will be before running it !
+
 print('\n---------num1 == num2---------\n')
 print('\t   ',num1 == num2) #\t is to denote a tab space in the output.
 print('\n---------num1 == num3---------\n')
