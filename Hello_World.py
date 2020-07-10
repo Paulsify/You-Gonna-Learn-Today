@@ -9,12 +9,12 @@ it can span multiple lines
 # The 'print' function will print to the screen whatever is typed inside the parentheses, this could be a string in this case
 # but you can also print numbers and various other things.
 
-print("Hello, World !") # This will print; Hello, World !
+print("Hello, World !") # This will print; Hello, World ! To use strings it must be in quotes either single or double.
 
-print('"Hello, World !"') # This will print; "Hello, World !" Notice that the double quotes are included
+print('"Hello, World !"') # This will print; "Hello, World !" Notice that the double quotes are included.
 
-print("'Hello, World !'") # This will print; 'Hello, World !' Notice that this time it is the single quotes are inlcuded
+print("'Hello, World !'") # This will print; 'Hello, World !' Notice that this time it is the single quotes are inlcuded.
 
-#In python double quotes and single quotes are virutually the same and indicate that whats inside is stored as a string
+#In python double quotes and single quotes are virutually the same and indicate that whats inside is stored as a string.
 
 print ('Hello, World ! ' * 5) #Anything outside the parentheses will be also be printed as such, This can be used to print variable values or in this case print 'Hello World ! ' 5 times
