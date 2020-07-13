@@ -53,6 +53,6 @@ print(mystr.rjust(40, '-'), '\n')
 
 '''
 This method is a little fancier looking but is actually much simpler than the other methods
-you dont get any of the concatination or rounding as you do with other methods. But it does help
+you dont get any of the concatination or rounding as you do with other methods. But it does help,
 lining things up this way is super easy
 '''
