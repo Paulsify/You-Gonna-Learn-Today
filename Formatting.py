@@ -37,4 +37,16 @@ print('My favorite movies are {} and {}'.format('The Terminator','Wall-E'))# The
 print('{0} and {1} went to the store'.format('Jack','Jill'))# Adding a position argument to a format method,if you remeber from lists, things start at 0.
 print('{1} and {0} went to the store'.format('Jack','Jill'))# You can use this to switch positions of variables
 print('My name is {1} and my favorite ice creams are {0} and {ice_cream}'.format('Chocolate', 'Jeremy', ice_cream = 'Strawberry'))# Variables can be assigned in the format method !
-print('The box is {0:2} inches by {1} inches')
+print('The box is {0:3d} inches by {1:3.2f} inches'.format(12, 6.546))# works with float and decimal width flags.
+print('{s} and {f} climbed mount doom'.format(s = 'Sam', f = 'Frodo'))# alternatively variables work as well
+
+print('________________________________________________________/Formatting with the string method\__________________________')
+
+mystr = 'String cheese is my favorite snack.'
+
+print('Center aligned with fill character')
+print(mystr.center(40, '-'),'\n')
+print('Left aligned with fill character')
+print(mystr.ljust(40, '-'), '\n')
+print('Right aligned with fill character')
+print(mystr.rjust(40, '-'), '\n')
