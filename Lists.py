@@ -65,7 +65,7 @@ The other very commonly used one is \t which creates a tab, or four spaces, equa
 #-------------------------------------------------------------------------------------------------------------------
 print('\n______________________________________________________/edit_this_list\_____________________________________\n')
 #-------------------------------------------------------------------------------------------------------------------
-print('', *edit_this_list) # Printing the original list for reference.
+print('', *edit_this_list) # Printing the original list for reference. # NOTE: You do not need the single quotes, they are just there to make the output look nice
 
 edit_this_list[1] = 11 # This will change the 2nd element in the list to 11 instead of 'eleven'.
 
