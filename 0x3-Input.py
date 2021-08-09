@@ -7,16 +7,16 @@ myName = ''
 myAge = 0
 #------------------------------------------------------------------------------------------------------------------
 print('Hello, I am Computer')
-print('What is your name ?: ')
-myName = input() # There are two ways to do input 1st Is this way where you print and then ask for input but the second method compounds the two lines.
+print('What is your name ?: ') #Having a print lines seperated like this means each thing will get printed to a new line
+myName = input() # There are two ways to do input first is this way, where you print and then ask for input but the second method compounds the two lines.
 print('Hello there, ', myName)
-print('Your name is ', len(myName), ' characters long.') # 'len' will return the legth of of whatever is in front of it.
+print('Your name is ', len(myName), ' characters long.') # 'len' will return the legnth of string in front of it.
 #------------------------------------------------------------------------------------------------------------------
-print('I was invented around 1940')
-myAge = int(input('How old are you ? ')) # Because (in python 3) input returns a string we must convert it to an integer to use it*
-print('Wow the difference in our ages is', 79 - myAge, 'years !') #NOTE: Entering a number greater than 79 will cause the diffence to be negative.
+print('I was invented around 1940') #Look up the Z1 Computer if you're interested !
+myAge = int(input('How old are you ? ')) # Because ,in python 3, input returns a string we must convert it to an integer to operate with it*
+print('Wow the difference in our ages is', 79 - myAge, 'years !') #NOTE: Entering a number greater than 79 will cause the difference to be negative.
 print('Its good to get to know you !')
-print('Bye !')
+print('Bye !') # See ya in a while, crocodile !
 #------------------------------------------------------------------------------------------------------------------
 
 '''

@@ -1,6 +1,6 @@
 '''
 This file extends upon the variable assingment learned from
-data_types.py.
+0x2-Data_Types.py
 In this file you will learn about lists, a list is basically exactly
 what it sounds like it is; it is a list of variables that can be
 treated as a variables individually.
@@ -36,8 +36,8 @@ my_list.append(3)
 print('\n______________________________________________________/my_list\____________________________________________\n')
 #-------------------------------------------------------------------------------------------------------------------
 print('', my_list[0]) # This will print the first thing in a list.
-print('', my_list[1])
-print('', my_list[2])
+print('', my_list[1]) # Prints the second thing
+print('', my_list[2]) # Prints the third thing
 #-------------------------------------------------------------------------------------------------------------------
 print('\n______________________________________________________/another_list\_______________________________________\n')
 #-------------------------------------------------------------------------------------------------------------------
