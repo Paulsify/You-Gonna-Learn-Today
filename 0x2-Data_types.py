@@ -2,7 +2,7 @@
 """
 In this file you will learn about variables and types of data that can be stored
 in those variables
-#-------------------------------------------------------------------------------
+
 Variables are a way for you to store data and then reference it later
 
 The syntax of which is: name_of_variable = data
@@ -22,10 +22,10 @@ There are a few data types that can be stored in a variable
 # A small example of assigning different varable types.
 
 integer = 7 # Integers can be as big as you want as long as there are no decimal points
-floating_point = 6.9 # As with integers any number of numbers can be added after the decimal points
-string = 'Spam is delicious' # When assigning a string quotes are used. Either single quotes or double. With double it is easier to add apostrophes.
-boolean = True #In python it is required for either True or False to be capitilized because python is case sensitive
-a, b, c, d = 1, 2.3, 'Bacon is also good', False  # It is possible to assign multiple variables at a time NOTE: Try to name the variable to explain what it is
+floating_point = 6.9 # As with integers any amount of numbers can be added before and after the decimal points
+string = 'Spam is delicious' # When assigning a string quotes are used. Either single quotes or double. NOTE:With double it is easier to add apostrophes.
+boolean = True #In python it is required for a boolean to be either True or False to be capitilized because python is case sensitive
+a, b, c, d = 1, 2.3, 'Bacon is also good', False  # It is possible to assign multiple variables at a time NOTE: Try to name the variable in a way that lets you remeber what it is for
 
 print('This is a integer: ', integer) #When printing more than one thing, be sure to seperate each with a comma
 print('This is a float: ', floating_point)
